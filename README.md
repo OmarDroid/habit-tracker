@@ -1,8 +1,7 @@
-# Project Title
-Habit Tracker
+# Habit Tracker
 
-## Description
-A Kotlin MVVM android mobile application that creates and tracks habits by time
+## A Kotlin MVVM android mobile application that creates and tracks habits by time
+
 
 ### Dependencies
 * Coroutine
